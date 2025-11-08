@@ -11,6 +11,7 @@ I am by nature a technologist, an engineer. I build. I tinker. Always have. The 
 
 ### The Nodes
 The on-premise AI, ML, and Data Science Research and Development Lab currently consists of four active, on-prem, bare-metal linux HPC compute nodes. Each node supports internal experimentation, benchmarking, and reproducibility validation. All systems operate on Ubuntu 24.04 LTS with synchronized driver, CUDA, and library versions to maintain bit-level reproducibility.
+
 ---
 **Platform Note:** All four nodes are Lenovo ThinkStation P5 and P7 towers; this standardization has been critical, enabling component interchangeability and operational consistency that mirrors real enterprise environments and scientific research and development and high-technology innvations labs. Unlike the Frankenstein custom builds that define most HPC enthusiast clusters, this approach prioritizes maintainability and reproducibility over boutique performance.
 
